@@ -2,7 +2,7 @@
 
 This project shows client server application in which the server can handle 3 simultaneous client connections. The client can connect to the server with a username which has to be unique. The server will randomly select a client and send that thread handling the client into sleep for some seconds. After completion of this time, the client will wake up.
 
-All of this managed with a GUI using TkInter.
+All of this is managed with a GUI using TkInter.
 
 ## Steps to run the program:
 1.	Start Command prompt and enter: py -3.7 server.py
